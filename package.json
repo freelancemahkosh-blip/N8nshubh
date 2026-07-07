@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "n8n": "latest"
-  },
+  }
   "scripts": {
     "start": "n8n start"
   }
